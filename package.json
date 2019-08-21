@@ -1,0 +1,22 @@
+{
+  "name": "news-article-scrapper",
+  "version": "1.0.0",
+  "description": "News Article scrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Scrapper",
+    "News",
+    "Article"
+  ],
+  "author": "Dinesh Matta",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "fast-xml-parser": "^3.12.20",
+    "he": "^1.2.0",
+    "puppeteer": "^1.19.0"
+  }
+}
